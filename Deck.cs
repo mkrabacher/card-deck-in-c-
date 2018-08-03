@@ -6,7 +6,8 @@ namespace CardDeck {
         public List<Card> cards;
         List<string> suits = new List<string>();
 
-        public Deck buildDeck() {
+        public Deck buildDeck()
+        {
             suits.Add("Hearts");
             suits.Add("Spades");
             suits.Add("Clubs");
@@ -35,13 +36,22 @@ namespace CardDeck {
             return this;
         }
 
-        public string showCards() {
-            string returnString = "";
-            for (int i = 0; i < this.cards.Count; i++)
-            {
-                returnString += this.cards[i].name + " of " + this.cards[i].suit + "\n";
+        public void showCards()
+        {
+            Render.CreateGrid(129, 76);
+            Render.DrawGame(this);
+        }
+
+        public void shuffle()
+        {
+            Random rnd = new Random();
+            for (int i = 0; i < cards.Count; i++) {
+                int pos = rnd.Next(cards.Count);
+                
+                Card temp = cards[i];
+                cards[i] = cards[pos];
+                cards[pos] = temp;
             }
-            return returnString;
         }
     }
 }

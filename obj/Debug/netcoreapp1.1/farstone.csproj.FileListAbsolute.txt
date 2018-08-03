@@ -30,3 +30,11 @@ C:\Users\Wamsutta\Desktop\Coding\CodingDojo\Projects\farstone\farstone - Copy\ob
 C:\Users\Wamsutta\Desktop\Coding\CodingDojo\Projects\farstone\farstone - Copy\obj\Debug\netcoreapp1.1\farstone.pdb
 C:\Users\Wamsutta\Desktop\Coding\CodingDojo\Projects\farstone\farstone - Copy\bin\Debug\netcoreapp1.1\farstone.dll
 C:\Users\Wamsutta\Desktop\Coding\CodingDojo\Projects\farstone\farstone - Copy\bin\Debug\netcoreapp1.1\farstone.pdb
+C:\Users\Wamsutta\Desktop\Coding\Independent Projects\Card_deck_C#\bin\Debug\netcoreapp1.1\farstone.deps.json
+C:\Users\Wamsutta\Desktop\Coding\Independent Projects\Card_deck_C#\bin\Debug\netcoreapp1.1\farstone.runtimeconfig.json
+C:\Users\Wamsutta\Desktop\Coding\Independent Projects\Card_deck_C#\bin\Debug\netcoreapp1.1\farstone.runtimeconfig.dev.json
+C:\Users\Wamsutta\Desktop\Coding\Independent Projects\Card_deck_C#\bin\Debug\netcoreapp1.1\farstone.dll
+C:\Users\Wamsutta\Desktop\Coding\Independent Projects\Card_deck_C#\bin\Debug\netcoreapp1.1\farstone.pdb
+C:\Users\Wamsutta\Desktop\Coding\Independent Projects\Card_deck_C#\obj\Debug\netcoreapp1.1\farstone.AssemblyInfo.cs
+C:\Users\Wamsutta\Desktop\Coding\Independent Projects\Card_deck_C#\obj\Debug\netcoreapp1.1\farstone.dll
+C:\Users\Wamsutta\Desktop\Coding\Independent Projects\Card_deck_C#\obj\Debug\netcoreapp1.1\farstone.pdb
